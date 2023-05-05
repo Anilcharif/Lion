@@ -1,4 +1,5 @@
 body {
+    background-color: black;
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -68,7 +69,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(https://fastly.4sqi.net/img/general/600x600/330945952_7mO3x4E65QKvNNnt2N4ya-eB7b7kSq645nISunkGDts.jpg);
+/*     background-image: url(https://fastly.4sqi.net/img/general/600x600/330945952_7mO3x4E65QKvNNnt2N4ya-eB7b7kSq645nISunkGDts.jpg); */
     background-repeat: no-repeat;
 }
 
